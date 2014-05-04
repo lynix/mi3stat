@@ -1,0 +1,5 @@
+obj/*.o
+obj/modules/*.o
+mi3stat
+.cproject
+.project

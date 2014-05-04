@@ -1,0 +1,9 @@
+
+ * better JSON support, e.g. 'color' attribute
+   --> more elaborate worker function result type
+       ( { value, color} struct)
+
+ * localized clock support
+
+ * empty module for separating clock from systray?
+
