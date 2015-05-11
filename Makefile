@@ -19,7 +19,7 @@ all: mi3stat
 
 
 mi3stat: $(OBJS) obj/main.o
-	$(CC) $(LDFLAGS) $(GLIB_LIBS) -o $@ $+
+	$(CC) $(LDFLAGS) -o $@ $+ $(GLIB_LIBS) 
 
 
 obj/libaquaero5.o: $(AEROTOOLS_ROOT)/src/libaquaero5.c $(AEROTOOLS_ROOT)/src/libaquaero5.h
