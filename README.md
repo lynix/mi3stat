@@ -1,6 +1,8 @@
 # mi3stat: multithreaded replacement for 'i3status'
 
 (C) 2014 by lynix <lynix47@gmail.com>
+
+[![Build Status](https://travis-ci.org/lynix/mi3stat.svg?branch=master)](https://travis-ci.org/lynix/mi3stat)
         
 ## SUMMARY
 mi3stat is a multithreaded drop-in replacement for 'i3status', a neat tool
